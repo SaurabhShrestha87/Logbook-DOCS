@@ -1,10 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to logbook's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Logbook Trackspot** is a Web Service for Truckers and Shipping Comapanies
+that creates :doc:`trip` as user needs, which is then traversed by the :doc:`emulator`.
+
+It pulls data from the `Google Maps <https://developers.google.com/maps>`_ and other third party services 
+and offers a *simple* and *intuitive* Website to perform vario.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
